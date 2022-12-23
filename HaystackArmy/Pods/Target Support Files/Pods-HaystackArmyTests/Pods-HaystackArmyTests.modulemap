@@ -1,0 +1,6 @@
+framework module Pods_HaystackArmyTests {
+  umbrella header "Pods-HaystackArmyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

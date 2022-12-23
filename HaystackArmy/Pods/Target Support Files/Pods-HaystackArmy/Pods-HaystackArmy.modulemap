@@ -1,0 +1,6 @@
+framework module Pods_HaystackArmy {
+  umbrella header "Pods-HaystackArmy-umbrella.h"
+
+  export *
+  module * { export * }
+}
